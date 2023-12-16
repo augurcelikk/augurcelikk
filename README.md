@@ -1,5 +1,4 @@
-# 💫 About Me:
-<h1><p align="center">Hello, I'm Berat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
+<h1><p align="center">Hello, I'm Uğur! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
 
 ## 🌐 Socials:
